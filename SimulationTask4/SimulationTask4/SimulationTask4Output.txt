@@ -1,0 +1,111 @@
+N1: 90000
+Dh: 1
+Dl: 2
+Mean service time in the infinite server queue: 10
+Mean service time in the client queue: 1.5
+batchSize1: 3000
+
+Calculating For LowerThreshold: 1 UpperThreshold: 2
+Mean of all batches: 13.2574
+The confidence interval at 95% confidence: ( 13.1969 , 13.3179 )
+Mean of probabilities of all batches: 0.00559707
+
+Calculating For LowerThreshold: 1 UpperThreshold: 5
+Mean of all batches: 13.2573
+The confidence interval at 95% confidence: ( 13.2054 , 13.3093 )
+Mean of probabilities of all batches: 0.0028821
+
+Calculating For LowerThreshold: 1 UpperThreshold: 8
+Mean of all batches: 13.2572
+The confidence interval at 95% confidence: ( 13.2084 , 13.3061 )
+Mean of probabilities of all batches: 0.00179843
+
+Calculating For LowerThreshold: 1 UpperThreshold: 11
+Mean of all batches: 13.2572
+The confidence interval at 95% confidence: ( 13.2099 , 13.3044 )
+Mean of probabilities of all batches: 0.00125973
+
+Calculating For LowerThreshold: 1 UpperThreshold: 14
+Mean of all batches: 13.2571
+The confidence interval at 95% confidence: ( 13.2109 , 13.3034 )
+Mean of probabilities of all batches: 0.000949269
+
+Calculating For LowerThreshold: 1 UpperThreshold: 17
+Mean of all batches: 13.2571
+The confidence interval at 95% confidence: ( 13.2115 , 13.3027 )
+Mean of probabilities of all batches: 0.00075261
+
+Calculating For LowerThreshold: 4 UpperThreshold: 5
+Mean of all batches: 13.2571
+The confidence interval at 95% confidence: ( 13.212 , 13.3022 )
+Mean of probabilities of all batches: 0.000619515
+
+Calculating For LowerThreshold: 4 UpperThreshold: 8
+Mean of all batches: 13.2571
+The confidence interval at 95% confidence: ( 13.2124 , 13.3018 )
+Mean of probabilities of all batches: 0.000524902
+
+Calculating For LowerThreshold: 4 UpperThreshold: 11
+Mean of all batches: 13.2571
+The confidence interval at 95% confidence: ( 13.2126 , 13.3015 )
+Mean of probabilities of all batches: 0.00045504
+
+Calculating For LowerThreshold: 4 UpperThreshold: 14
+Mean of all batches: 13.2571
+The confidence interval at 95% confidence: ( 13.2129 , 13.3013 )
+Mean of probabilities of all batches: 0.000401869
+
+Calculating For LowerThreshold: 4 UpperThreshold: 17
+Mean of all batches: 13.2571
+The confidence interval at 95% confidence: ( 13.213 , 13.3011 )
+Mean of probabilities of all batches: 0.000360389
+
+Calculating For LowerThreshold: 7 UpperThreshold: 8
+Mean of all batches: 13.2571
+The confidence interval at 95% confidence: ( 13.2132 , 13.3009 )
+Mean of probabilities of all batches: 0.000327356
+
+Calculating For LowerThreshold: 7 UpperThreshold: 11
+Mean of all batches: 13.257
+The confidence interval at 95% confidence: ( 13.2133 , 13.3008 )
+Mean of probabilities of all batches: 0.000300589
+
+Calculating For LowerThreshold: 7 UpperThreshold: 14
+Mean of all batches: 13.257
+The confidence interval at 95% confidence: ( 13.2134 , 13.3007 )
+Mean of probabilities of all batches: 0.000278573
+
+Calculating For LowerThreshold: 7 UpperThreshold: 17
+Mean of all batches: 13.257
+The confidence interval at 95% confidence: ( 13.2135 , 13.3005 )
+Mean of probabilities of all batches: 0.000260231
+
+Calculating For LowerThreshold: 10 UpperThreshold: 11
+Mean of all batches: 13.257
+The confidence interval at 95% confidence: ( 13.2136 , 13.3005 )
+Mean of probabilities of all batches: 0.000244775
+
+Calculating For LowerThreshold: 10 UpperThreshold: 14
+Mean of all batches: 13.257
+The confidence interval at 95% confidence: ( 13.2137 , 13.3004 )
+Mean of probabilities of all batches: 0.000231621
+
+Calculating For LowerThreshold: 10 UpperThreshold: 17
+Mean of all batches: 13.2569
+The confidence interval at 95% confidence: ( 13.2137 , 13.3003 )
+Mean of probabilities of all batches: 0.000220326
+
+Calculating For LowerThreshold: 13 UpperThreshold: 14
+Mean of all batches: 13.2569
+The confidence interval at 95% confidence: ( 13.2138 , 13.3002 )
+Mean of probabilities of all batches: 0.000210551
+
+Calculating For LowerThreshold: 13 UpperThreshold: 17
+Mean of all batches: 13.257
+The confidence interval at 95% confidence: ( 13.2138 , 13.3002 )
+Mean of probabilities of all batches: 0.00020203
+
+Calculating For LowerThreshold: 16 UpperThreshold: 17
+Mean of all batches: 13.257
+The confidence interval at 95% confidence: ( 13.2139 , 13.3001 )
+Mean of probabilities of all batches: 0.000194555
